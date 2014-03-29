@@ -3,6 +3,14 @@ migrate-from-mvc4-to-mvc5
 
 本專案示範從 ASP.NET MVC 4 升級到 ASP.NET MVC 5 的完整過程。
 
+操作步驟錄影
+------------
+
+如何從 ASP.NET MVC 4.0 升級到 ASP.NET MVC 5.0 或 5.1 版
+
+[![ScreenShot](https://cloud.githubusercontent.com/assets/88981/2558150/14a46654-b736-11e3-92bd-f3ccaf8d6934.png)](https://www.youtube.com/watch?v=6j6W8WfD1Fk&hd=1)
+
+
 升級步驟說明
 -------------
 
