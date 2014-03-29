@@ -176,6 +176,13 @@ git checkout -b migrate-to-mvc5
 git reset --hard && git clean -x -f -d
 ```
 
+相關連結
+-------
+
+* [How to Upgrade an ASP.NET MVC 4 and Web API Project to ASP.NET MVC 5 and Web API 2 : The Official Microsoft ASP.NET Site](http://www.asp.net/mvc/tutorials/mvc-5/how-to-upgrade-an-aspnet-mvc-4-and-web-api-project-to-aspnet-mvc-5-and-web-api-2)
+* 演講簡報：[ASP.NET MVC 5 新功能探索](http://bit.ly/aspnet-mvc-5-whats-new) (SlideShare)
+* 現場錄影：[ASP.NET MVC 5 新功能探索 - MVP 微軟技術關卡破解日](http://channel9.msdn.com/Events/MVP-Virtual-Conference/MVP-Comcamp-Taiwan-2014/ASP-NET-MVC-5-New-Features) (Channel 9)
+
 與我聯絡
 ---------
 
